@@ -7,6 +7,11 @@ und die Maus versucht, so viel Käse zu sammeln, wie sie kann. Die Maus versucht
 in ihrem Haus zu verstecken, sodass die Katze sie nicht sehen oder fressen kann.
 Je mehr Käse gesammelt wird, desto schwieriger wird das Spiel. Wie viel Käse kannst du sammeln, bevor du gefressen wurde.
 
+## Technologien
+- Java
+- Processing
+- gradle
+
 ## Screenshot
 ![Screenshot](Screenshot.png)
 ## Bedienungshinweise

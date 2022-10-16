@@ -1,6 +1,6 @@
-# Kurzbezeichnung für Ihr Spiel, Ihre Simulation oder Animation (PiS, SoSe2021)
-Autor: Omar Hammad, 5311024
-## Kurzbeschreibung (50-150 Wörter)
+# Mouse & Cat
+
+## Kurzbeschreibung
 
 Das Spiel heißt "Mouse and Cat". Die Katze versucht, die Maus (der Spieler) zu fressen
 und die Maus versucht, so viel Käse zu sammeln, wie sie kann. Die Maus versucht,
